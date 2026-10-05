@@ -1,0 +1,6 @@
+# Allow all search engine crawlers (Googlebot, Bingbot, etc.)
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ais-pre-eeyjvjk7tvku2c6avkvpfh-511873282580.asia-southeast1.run.app/sitemap.xml
